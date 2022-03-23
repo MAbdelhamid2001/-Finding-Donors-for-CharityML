@@ -1,2 +1,2 @@
 # -Finding-Donors-for-CharityML
-Udacity Nano degree program 1st project
+Udacity Nanodegree program 1st project
