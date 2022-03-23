@@ -1,6 +1,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
-Note: that's an initial version ,that iam trying to improve accuracy and update again
+- Note: that's an initial version ,that iam trying to improve accuracy and update again
+- Original competition link:https://www.kaggle.com/c/udacity-mlcharity-competition
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
