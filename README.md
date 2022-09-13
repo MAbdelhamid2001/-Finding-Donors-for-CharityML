@@ -1,6 +1,6 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
-- Note: that's an initial version ,that iam trying to improve accuracy and update again
+- that's my first project in Intro to machine learning with tensorflow Nanodegree program
 - Original competition link:https://www.kaggle.com/c/udacity-mlcharity-competition
 ### Install
 
